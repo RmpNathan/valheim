@@ -1,2 +1,1119 @@
 Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
 Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.20f1 (6dd1c08eedfa)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.5671
+Begin MonoManager ReloadAssembly
+- Completed reload, in  1.001 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 17.683800 ms
+04/18/2021 14:18:51: Starting to load scene:start
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 1050 -> priority: 1 
+  Thread -> id: 3090 -> priority: 1 
+  Thread -> id: 241c -> priority: 1 
+UnloadTime: 4.731800 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
+(Filename:  Line: 509)
+
+04/18/2021 14:19:03: Valheim version:0.148.7
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:03: Render threading mode:MultiThreaded
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:03: Using environment steamid 892970
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:03: Using steam APPID:892970
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:03: Authentication:k_ESteamNetworkingAvailability_Attempting
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:03: Steam initialized, persona:NatiPollen
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:03: Missing audio clip in music respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:03: Checking for installed DLCs
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:03: DLC:beta installed:False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:03: Builder started
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:04: Loaded localization English
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:04: Loaded localization French
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 87696.
+Total: 87.029500 ms (FindLiveObjects: 3.736200 ms CreateObjectMapping: 9.950200 ms MarkObjects: 73.032000 ms  DeleteObjects: 0.310700 ms)
+
+04/18/2021 14:19:06: UI Group status changed Menu = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:09: show character selection
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:20: OnCharacterStart
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.710000 ms
+04/18/2021 14:19:39: Loading player profile pollen
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:39: Zonesystem Awake 2044
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:39: DungeonDB Awake 2044
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:39: Steam initialized, persona:NatiPollen
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:39: Registering lobby
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:43: Load world Pollenland
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:43: Loading 208483 zdos , my id -1535064778 data version:26
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:44: Loaded 100000 dead zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:44: Removed 0 OLD generated ZDOS
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:44: Loaded 7110 locations
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:44: Audioman already exist, destroying self
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:44: Checking for installed DLCs
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:44: DLC:beta installed:False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 513 unused Assets to reduce memory usage. Loaded Objects now: 87160.
+Total: 141.455200 ms (FindLiveObjects: 3.420400 ms CreateObjectMapping: 8.464500 ms MarkObjects: 124.865500 ms  DeleteObjects: 4.704500 ms)
+
+04/18/2021 14:19:47: Zonesystem Start 2044
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:47: DungeonDB Start 2044
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:47: Starting respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:47: Lobby was created k_EResultOK  109775241072197734  error:False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:47: Got requested lobby data
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:57: tip:$loadscreen_tip04
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:57: Got requested lobby data
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:59: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:59: Dungeon loaded 18
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:19:59: Dungeon load time 69,7778 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:00: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:00: Dungeon loaded 45
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:00: Dungeon load time 32,9072 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Force generaeting hmap (0.0, 0.0, 576.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Force generaeting hmap (128.0, 0.0, 576.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Force generaeting hmap (64.0, 0.0, 576.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Force generaeting hmap (192.0, 0.0, 576.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Force generaeting hmap (0.0, 0.0, 640.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Force generaeting hmap (64.0, 0.0, 640.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Force generaeting hmap (0.0, 0.0, 768.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Force generaeting hmap (128.0, 0.0, 768.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Force generaeting hmap (0.0, 0.0, 832.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Force generaeting hmap (128.0, 0.0, 832.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Dungeon loaded 22
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:01: Dungeon load time 17,597 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:05: Spawned after 8,019994
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:05: Minimap: Adding unique location (-129.3, 36.7, 5.3)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:06: Resumed music home at 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:21: Stoped music home at 663101
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:21: Resumed music meadows at 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:49: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:49: Dungeon loaded 22
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:49: Dungeon load time 15,9869 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:54: Player -1535064778 wants to open piece_chest_wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:54: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:54: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:20:54: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:21:43: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:21:43: Dungeon loaded 22
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:21:43: Dungeon load time 17,9521 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:26: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:26: Dungeon loaded 22
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:26: Dungeon load time 17,9523 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:36: Player -1535064778 wants to open piece_chest_wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:36: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:36: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:36: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:38: Player -1535064778 wants to open piece_chest_wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:38: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:38: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:38: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:41: Loading dungeon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:41: Dungeon loaded 22
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:22:41: Dungeon load time 15,9869 ms
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:25:02: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:25:02: New connection
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:25:02: Accepting connection k_EResultOK
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:25:02: Connecting to Steamworks.SteamNetworkingIdentity
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:25:02: Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:25:04: Got handshake from client 76561198378229429
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:25:04: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:25:04: VERSION check their:0.148.7  mine:0.148.7
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:25:04: Server: New peer connected,sending global keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:25:23: Got character ZDOID from Bendo : 3345248127:1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:26:58: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:26:58: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:26:58: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:26:58: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:26:58: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 441 unused Assets to reduce memory usage. Loaded Objects now: 1588082.
+Total: 613.188300 ms (FindLiveObjects: 120.104500 ms CreateObjectMapping: 30.451600 ms MarkObjects: 461.078700 ms  DeleteObjects: 1.553100 ms)
+
+04/18/2021 14:32:16: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:16: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:55: Player 3345248127 wants to pickup RawMeat(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:56: Player 3345248127 wants to pickup RawMeat(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:56:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:56: Player 3345248127 wants to pickup DeerHide(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:56: Player 3345248127 wants to pickup RawMeat(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:56: Player 3345248127 wants to pickup RawMeat(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:56:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:58: Player 3345248127 wants to pickup RawMeat(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:58: Player 3345248127 wants to pickup RawMeat(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:59: Player 3345248127 wants to pickup DeerHide(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:32:59: Player 3345248127 wants to pickup TrophyDeer(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:33:06: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:33:06: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:33:57: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:33:59: Player 3345248127 wants to pickup BeechSeeds(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:11: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:11: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:11: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:11: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:11: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:11: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:11: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:11: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:11: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:11: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:24: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:24: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:24: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:24: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:24: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:25: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:25: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:25: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:25: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:25: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:31: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:42: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:42: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:42: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:42: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:43: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:43: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:49: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:50: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:50: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:50: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:50: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:50: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:51: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:51: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:51: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:34:51: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:05:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:10: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:10: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:10: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:16: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:18: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:18: Player 3345248127 wants to pickup BeechSeeds(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:24: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:24: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:34: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:34: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:34: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:35: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:35: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:35: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:36: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:36: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:36: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37:   but im not the owner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:37: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:41: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:41: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:44: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:44: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:35:46: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:01: Player 3345248127 wants to pickup Resin(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:01: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:02: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:13: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:13: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:13: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:13: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:13: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:13: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:13: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:13: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:13: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:13: Player 3345248127 wants to pickup Wood(Clone)   im: -1535064778
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:21: Stoped music meadows at 3506293
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:21: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:37: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:37: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:45: Spawned Greydwarf x 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:45: Spawned Greydwarf_Shaman x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:36:46: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:37:18: Spawned Greydwarf_Elite x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:38:42: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:38:46: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:39:06: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:39:10: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:39:58: clone 235
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 1613367.
+Total: 609.751300 ms (FindLiveObjects: 89.581400 ms CreateObjectMapping: 32.131800 ms MarkObjects: 486.107300 ms  DeleteObjects: 1.930400 ms)
+
+04/18/2021 14:39:59: Saved 208513 zdos
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:39:59: World saved ( 1133,2204ms )
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:40:15: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:40:15: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:40:15: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:40:42: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:40:50: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:41:14: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:41:26: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+04/18/2021 14:43:02: Spawned FireFlies x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
